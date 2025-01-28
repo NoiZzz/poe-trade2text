@@ -1,17 +1,13 @@
 .export-icon {
-  background-color: #4CAF50;
-  border: none;
-  color: white;
-  padding: 2px 5px;
+  background-color: #222;
+  border: 1px solid, #444;
+  color: #e9cf9f;
+  padding: 1px 5px;
   text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 11px;
-  margin: 2px;
-  border-radius: 3px;
-  transition: background-color 0.3s ease;
+  font-size: 85%;
+  margin-top: 5px;
 }
 
 .export-icon:hover {
-  background-color: #45a049;
+  background-color: #080809;
 }
